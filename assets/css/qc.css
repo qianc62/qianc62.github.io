@@ -1,0 +1,37 @@
+
+TABLE {
+	MARGIN-BOTTOM: 20px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 1050px; BACKGROUND-COLOR: #f6fbfe
+}
+.title {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px;
+}
+TABLE A {
+	COLOR: black; TEXT-DECORATION: none
+}
+.easylink {
+	COLOR: black; TEXT-DECORATION: none
+}
+TD {
+	PADDING-BOTTOM: 1px; PADDING-TOP: 3px; PADDING-LEFT: 5px; PADDING-RIGHT: 6px; BACKGROUND-COLOR: #fbfcfe
+}
+.left {
+	FONT-SIZE: 10px; TEXT-ALIGN: center; WIDTH: 25px; BACKGROUND-COLOR: #eaf3fb
+}
+
+a:link {
+color:#483D8B;
+text-decoration:none;
+}
+a:visited {
+color:#483D8B;
+text-decoration:none;
+}
+a:hover {
+color:#000000;
+text-decoration:none;
+}
+a:active {
+color:#FFFFFF;
+text-decoration:none;
+}
+
