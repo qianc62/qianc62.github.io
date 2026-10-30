@@ -245,6 +245,28 @@ html, body {
     transform: scale(1.05);
 }
 
+#project-turingunion .project-image a {
+    display: block;
+    height: 100%;
+}
+
+#project-turingunion .project-image img {
+    object-fit: contain;
+}
+
+#project-turingunion .project-content {
+    padding-bottom: 12px;
+}
+
+#news-turingunion .timeline-content {
+    min-width: 0;
+}
+
+#news-turingunion .news-image-container {
+    max-width: 100%;
+    align-self: center;
+}
+
 .project-content {
     padding: 12px 20px;
     position: relative;
@@ -491,4 +513,4 @@ html, body {
 /* Remove margin for the first link in each paragraph */
 #profile-info p a:first-child {
     margin-left: 0;
-} 
+}
